@@ -159,7 +159,7 @@ void loop()
 ### OUTPUT
 ### ON CONDITION(DISTANCE<50)
 ![Screenshot (76)](https://github.com/PonnagarajanMurugan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119476356/9c11b0ea-2561-4eb2-86cf-4900e2f0be3d)
-### OFF CONDITION(DISTANCE>50)
+### ON CONDITION(DISTANCE>50)
 ![311236657-cd17123d-67f1-4175-9de3-b88cf00539c4](https://github.com/PonnagarajanMurugan/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/119476356/5afee209-2160-4af2-b43d-1339fa652738)
 ### RESULTS
 Thus the program for the distance measurement using Ultrasonic sensor is been implemented successfully.
